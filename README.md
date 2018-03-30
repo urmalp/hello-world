@@ -10,4 +10,4 @@ clojure
 scala
 mongo
 kafka
-spark  
+spark
