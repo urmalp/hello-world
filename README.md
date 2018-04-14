@@ -32,14 +32,19 @@ clojure</br>
 scala</br>
 oracle</br>
 mongo</br>
+nosql</br>
 kafka</br>
 spark</br>
 ddd</br>
 maven</br>
 idea</br>
 git</br>
+microservices</br>
 cloud native architecture</br>
 12 factor app</br>
 data intensive app</br>
 reactive programming</br>
 functional programming</br>
+lambda architecture</br>
+serverless</br>
+actor model and akka</br>
