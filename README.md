@@ -39,14 +39,21 @@ ddd</br>
 maven</br>
 idea</br>
 git</br>
-microservices</br>
 cloud native architecture</br>
-12 factor app</br>
+  <ul>
+  <li>microservices</li>
+  <li>12 factor app</li>
+  <li>spring boot</li>
+  </ul>
 data intensive app</br>
 reactive programming</br>
 functional programming</br>
 lambda architecture</br>
 serverless</br>
-actor model and akka</br>
+actor model</br>
+ <ul>
+  <li>akka</li>
+ </ul> 
 kanban</br>
 scrum</br>
+data structure and algorithm</br>
