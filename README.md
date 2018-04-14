@@ -48,3 +48,5 @@ functional programming</br>
 lambda architecture</br>
 serverless</br>
 actor model and akka</br>
+kanban</br>
+scrum</br>
