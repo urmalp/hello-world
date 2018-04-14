@@ -57,3 +57,4 @@ actor model</br>
 kanban</br>
 scrum</br>
 data structure and algorithm</br>
+enterprise integration pattern</br>
